@@ -1,5 +1,9 @@
 # dcf-cng-token-issuer
 
+- Cunningトークン(CNG)を発行するためのリポジトリです
+
+## 環境構築
+
 - 事前に [MetaMask](https://metamask.io/) をインストールしておいてください
 - 事前に [GOERLI FAUCET](https://goerlifaucet.com/) でGoerilETHを受け取っておいてください
 - 事前に [Alchemy](https://www.alchemy.com/) に登録し、アプリケーションを作成しておいてください
