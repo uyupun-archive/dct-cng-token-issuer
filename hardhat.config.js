@@ -9,7 +9,7 @@ module.exports = {
   networks: {
     hardhat: {},
     goerli: {
-      url: process.env.API_URL,
+      url: process.env.ALCHEMY_API_URL,
       accounts: [`0x${process.env.PRIVATE_KEY}`],
     },
   },
