@@ -1,5 +1,3 @@
-// require('@nomiclabs/hardhat-ethers')
-
 main()
 
 async function main () {
