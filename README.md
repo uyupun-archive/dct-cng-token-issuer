@@ -5,9 +5,9 @@
 ## 環境構築
 
 - 事前に [MetaMask](https://metamask.io/) をインストールしておいてください
-- 事前に [GOERLI FAUCET](https://goerlifaucet.com/) でGoerilETHを受け取っておいてください
+- 事前に [GOERLI FAUCET](https://goerlifaucet.com/) からGoerilETHを受け取っておいてください
 - 事前に [Alchemy](https://www.alchemy.com/) に登録し、アプリケーションを作成しておいてください
-- これらの詳細な手順は参考の項目を参照してください
+- これらの詳細な手順は参考のリンク先を参照してください
 
 ```bash
 # コピー後、AlchemyのAPIキーとMetaMaskの秘密鍵を設定してください
@@ -18,10 +18,10 @@ $ npx hardhat compile
 $ npx hardhat run scripts/deploy.js
 ```
 
-## トークンアドレス
+## トークンコントラクトアドレス
 
 - `0x581E6B9fCD556afd15e8f3d31920946Ba2c0bf21`
-- このアドレスはMetaMask等のウォレットにおいて、カスタムトークンをインポートする際に必要となります
+- このアドレスはMetaMask等のウォレットにおいて、カスタムトークンをインポートする際や、トークンを送金する際に使用します
 
 ## 参考
 
