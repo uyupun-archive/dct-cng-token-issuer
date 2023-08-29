@@ -1,5 +1,7 @@
 # dcf-cng-token-issuer
 
+<img width="200" alt="ロゴ" src="/logo.png">
+
 - Cunningトークン(CNG)を発行するためのリポジトリです
 
 ## 環境構築
